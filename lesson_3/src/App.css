@@ -1,0 +1,8 @@
+.linkInfo{
+    width: 200px;
+   padding: 10px;
+}
+.linkContainer{
+    width: 600px;
+    display: flex;
+}

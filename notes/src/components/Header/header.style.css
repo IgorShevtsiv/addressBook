@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background: steelblue;
+    display: flex;
+    align-items: center;
+
+}
+
+.headerText {
+    font-weight: 800;
+    font-size: 24px;
+    padding-left: 40px;
+}
+.headerText:hover{
+    color: darkred;
+}
